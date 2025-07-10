@@ -1,6 +1,6 @@
 # Employee-Management-System
 An Employee Management System is a  web application that allows organizations to manage employee records efficiently. This project covers the key functionalities required for adding, updating, viewing, and deleting employee details.
-The main objective of the Employee Management System (EMS) is to provide a centralized, efficient, and automated solution for managing employee records within an organization. The system aims to achieve the following key objectives:
+ The main objective of the Employee Management System (EMS) is to provide a centralized, efficient, and automated solution for managing employee records within an organization. The system aims to achieve the following key objectives:
  Design of an HR management system to meet needs such as adding and deleting employees, viewing and printing employee data, and updating employee information.
  Employee data is stored in a well-designed database.
  An easy-to-use interface that will let user interact with the system.
