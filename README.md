@@ -20,4 +20,4 @@ IntelliJ IDEA, Eclipse, or NetBeans)
 Prerequisites:
 JDK (Java Development Kit) 8 or higher
 MySQL Server
-JDBC Driver for MySQL
+JDBC Driver for MySQL 
