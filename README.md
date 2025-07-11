@@ -6,18 +6,18 @@
 ### An easy-to-use interface that will let user interact with the system.
 # Features:
 - Admin Login
- Add new employee
- View employee list
- Update employee information
- Delete employee
- Search employee by name/ID
- Technologies Used:
- •	Programming Language: Java
- •	Database: MySQL
- Libraries/Frameworks: JDBC
--IDE: Any Java-compatible IDE (e.g.,
-IntelliJ IDEA, Eclipse, or NetBeans)
-Prerequisites:
-JDK (Java Development Kit) 8 or higher
-MySQL Server
-JDBC Driver for MySQL 
+- Add new employee
+- View employee list
+- Update employee information
+- Delete employee
+- Search employee by name/ID
+ # Technologies Used:
+ -	Programming Language: Java
+ -	Database: MySQL
+- Libraries/Frameworks: JDBC
+- IDE: Any Java-compatible IDE (e.g.,
+-IntelliJ IDEA, Eclipse, or NetBeans)
+# Prerequisites:
+- JDK (Java Development Kit) 8 or higher
+- MySQL Server
+- JDBC Driver for MySQL 
