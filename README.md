@@ -5,7 +5,7 @@
 ### Employee data is stored in a well-designed database.
 ### An easy-to-use interface that will let user interact with the system.
 # Features:
- Admin Login
+- Admin Login
  Add new employee
  View employee list
  Update employee information
